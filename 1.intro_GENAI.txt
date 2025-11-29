@@ -1,0 +1,26 @@
+  AI
+  |
+  |
+  ML
+  |
+  |
+  DL
+  |
+  |
+GEN AI
+
+Human (Brain) --- AI (MODAL)
+
+TYpes of AI (Artifical Super Intelligence,
+             Artifical General Intelligence,
+             Artifical Emotional Intelligence)
+
+MODAL 
+1. Need a Data to Train Modal
+
+parameter(Situation)
+ 
+online Modal vs Offine Modal
+(API)           (Maintaining with our Servers and hardware)
+
+Free Modals Available in Hugging face -- > https://huggingface.co/
