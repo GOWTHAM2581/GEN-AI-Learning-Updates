@@ -1,0 +1,17 @@
+Commercial Models (API Access)
+These models are offered as managed services. They allow developers to integrate AI into their applications using API calls and SDKs (e.g., Python, Java, JavaScript). 
+OpenAI: Offers models via API for various tasks.
+GPT-4 / GPT-4o: Advanced large language models for text generation, reasoning, summarization, and code generation.
+DALL-E 3: High-quality text-to-image generation model.
+Sora / RunwayML: Models for high-quality text-to-video generation (Sora is not yet publicly available).
+Google: Access to models is provided via Google AI Studio and the Vertex AI platform.
+Gemini (Pro, Ultra, Nano): A family of multimodal models supporting vision, text, and code generation, with some versions optimized for on-device use (Nano).
+Gemma: A family of lightweight, open models with the same research lineage as Gemini, available for customization and running in applications.
+Imagen: Models for high-quality image generation and editing.
+Anthropic: Develops reliable and safe AI models.
+Claude: A conversational AI model for dialogue, summarization, and complex reasoning.
+Microsoft Azure: Offers access to models (including OpenAI's) through Azure AI Foundry and the Azure OpenAI API, which integrates with other Azure services.
+Amazon Web Services (AWS): Provides access to a range of foundation models via Amazon Bedrock, including their Titan family of models. 
+
+
+
