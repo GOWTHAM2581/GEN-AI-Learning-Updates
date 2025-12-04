@@ -15,3 +15,19 @@ Amazon Web Services (AWS): Provides access to a range of foundation models via A
 
 
 
+Open-Source Models and Frameworks
+Open-source options allow developers more control over the models, data privacy, and the ability to run models on their own hardware. 
+Models:
+Stable Diffusion (Stability AI): An open-source text-to-image model that is highly customizable and popular for creative applications and game development.
+Llama (Meta): Open models for text generation and language tasks that can be fine-tuned.
+Mistral AI Models: A corporate sponsor of open-source models known for high efficiency and strong coding capabilities.
+Frameworks & Platforms:
+Hugging Face: A hub for discovering, experimenting with, and deploying pre-trained open-source models for various tasks, including text generation and classification.
+TensorFlow & PyTorch: Open-source machine learning libraries that provide tools for building, training, and deploying generative AI models.
+GitHub Copilot (via API): An AI pair programmer that provides code suggestions and automation, available to developers via API and integrated into IDEs (Integrated Development Environments) like Visual Studio Code. 
+Developers typically use these models for:
+Generating boilerplate code or completing functions.
+Automating documentation and test case generation.
+Building AI-powered chatbots and virtual assistants.
+Creating images, videos, and audio for applications.
+Summarizing documents and extracting insights from data
