@@ -1,0 +1,5 @@
+Key Python Libraries for GenAI
+Deep Learning Frameworks: PyTorch, TensorFlow (for building complex neural networks).
+Transformers/NLP: Hugging Face transformers (for pre-trained models like GPT, BERT).
+Data Handling: Pandas, NumPy (for data manipulation).
+Model Deployment: FastAPI, Flask (for building APIs around your models)
