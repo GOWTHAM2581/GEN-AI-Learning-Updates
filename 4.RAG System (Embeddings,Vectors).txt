@@ -1,0 +1,63 @@
+input(String) -----> Vector
+
+store(Data or Doc) in Chunk
+
+chunk woking
+
+This is gowtham, React Developer & Web Deiger,
+also know cloud in aws service like ec2,s3,IAM
+
+chunk 1
+This is gowtham, React Developer (Overlapping)
+
+chunk 2
+(Overlapping)
+React Developer & Web Deiger,
+
+chunk 3
+Web Deiger,also know cloud 
+
+chunk 4
+cloud in aws service like ec2,s3,IAM
+
+each chunk create a vector
+
+example chunk
+
+chunk 1 - 0 to 499   // 500 char per chunk 
+chunk 2 - 400 to 899  // 100 char overlapping
+chunk 3 - 800 to 1299
+
+k=3 (take 3 matching chunk from vector db)
+
+Goldilocks Principle
+chunk
+not too small (50-100)
+not too big (2000 < )
+take medium 500
+
+while using RAG we use 2 Model 
+embedding modal (Convert our Data into Vector)
+normal modal
+
+
+embedding modal 
+
+vector C1([0.44,0.22,0.17,....])
+    C2([0.44,0.22,0.17,....])
+C3([0.44,0.22,0.17,....])
+
+que : chunk ([0.44,0.22,0.17,....])
+                              (1536) // denpends on modal
+vector dimention
+chennai ([1,2])
+
+Maths 
+
+5 - 6 (char) --- > small word
+11 - 12 (char) ---> Avg word
+
+500 char / 5 char = 100 words
+500 char / 6 char = 83 words
+
+5 - 6 char ----> 80 - 100 words (1 - 2 sentence)
