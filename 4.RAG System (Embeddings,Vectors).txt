@@ -61,3 +61,6 @@ Maths
 500 char / 6 char = 83 words
 
 5 - 6 char ----> 80 - 100 words (1 - 2 sentence)
+
+// the chunk is taken based on context on usage like academic , Banking , School Data 
+
