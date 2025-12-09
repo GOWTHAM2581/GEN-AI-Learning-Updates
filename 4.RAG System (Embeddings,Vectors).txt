@@ -48,7 +48,7 @@ vector C1([0.44,0.22,0.17,....])
 C3([0.44,0.22,0.17,....])
 
 que : chunk ([0.44,0.22,0.17,....])
-                              (1536) // denpends on modal
+                          dimension    (1536) // denpends on modal
 vector dimention
 chennai ([1,2])
 
@@ -62,5 +62,5 @@ Maths
 
 5 - 6 char ----> 80 - 100 words (1 - 2 sentence)
 
-// the chunk is taken based on context on usage like academic , Banking , School Data 
+// the chunk is taken based on context on usage like academic 200 - 400 , new article 400-600 , book manual -500 -800 , legal doc - 800 - 1200 chunks 
 
