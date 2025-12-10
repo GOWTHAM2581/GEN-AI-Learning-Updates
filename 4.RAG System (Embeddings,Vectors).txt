@@ -1,3 +1,5 @@
+RAG (Retrieval-Augmented Generation) in AI is a powerful technique that connects Large Language Models (LLMs) with external, up-to-date knowledge sources (like databases, documents, or the web) to provide more accurate, context-aware, and factual answers, essentially giving the LLM an "open-book" exam instead of relying only on its static training data, preventing hallucinations and making AI more reliable for specific tasks.
+
 input(String) -----> Vector
 
 store(Data or Doc) in Chunk
